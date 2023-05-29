@@ -65,9 +65,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/nba-xuantruong.png" alt="xuantruong-blog" />
-  </a>
   <a href="https://www.facebook.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="xuantruong-facebook" />
   </a>
@@ -80,7 +77,7 @@
   <a href="https://www.instagram.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="xuantruong-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="[mailto:trungquandev.official@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="xuantruong-email" />
   </a>
 </div>
