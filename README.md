@@ -90,9 +90,7 @@
 <h2 align="center">📖 My Basic Programming Languages 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Knowledge overview (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
+    <strong>☕ Knowledge overview (HTML,CSS,JS,NodeJS, ReactJS, NextJS , ExpressJS, MongoDB)</strong>
 </p>
 <p><strong>☕Trong khóa học HTML CSS của tôi tôi đã học được về tất cả cơ bản đến build 1 project clone nho nhỏ cuả shopee.</strong></p>
 <p><strong>☕Đối với Javascript tôi cũng đã học được tất cả các Array Object Function Fetch API cơ bản và có làm vài TODOS.</strong></p>
