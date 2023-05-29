@@ -14,10 +14,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="xuantruong logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="xuantruong.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="xuantruong.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="xuantruong.js logo" title="Vue.js" height="25" /></span>
+&nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="xuantruong.js logo" title="Nuxt.js" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="xuantruong.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="xuantruong.js logo" title="Express.js" height="25" /></span>
@@ -26,8 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="xuantruong logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="xuantruong.js logo" title="Three.js" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="xuantruong.js logo" title="Three.js" height="25" /></span> -->
+<!-- &nbsp; -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="xuantruong logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="xuantruong logo" title="CSS3" height="25" /></span>
@@ -44,15 +44,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="xuantruong logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="xuantruong logo" title="WordPress" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="xuantruong logo" title="WordPress" height="25" /></span> -->
+<!-- &nbsp; -->
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="xuantruong">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Trungquandev">
@@ -68,16 +68,16 @@
   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/nba-xuantruong.png" alt="xuantruong-blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="xuantruong-facebook" />
   </a>
   <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="xuantruong-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/tr%C6%B0%E1%BB%9Dng-xu%C3%A2n-00bb05256/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="xuantruong-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="xuantruong-instagram" />
   </a>
   <a href="mailto:trungquandev.official@gmail.com" target="top">
@@ -87,23 +87,26 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 align="center">📖 My Basic Programming Languages 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+    <strong>☕ Knowledge overview (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p><strong>☕Trong khóa học HTML CSS của tôi tôi đã học được về tất cả cơ bản đến build 1 project clone nho nhỏ cuả shopee.</strong></p>
+<p><strong>☕Đối với Javascript tôi cũng đã học được tất cả các Array Object Function Fetch API cơ bản và có làm vài TODOS.</strong></p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<p><strong>☕Đối với React tôi cũng đã học được tất cả các Hook cơ bản và kết hợp với Redux toolkit và react query và SASS và tôi cũng đã build clone 1 project tiktok</strong></p>
+<p>
+<p><strong>☕Đối với NextJS tôi cũng đã học được tất cả các cách chia routes dynamic and generate static quan trọng trong Nextjs và tôi kết hợp với Tailwindcss and typescript và build clone một số dự án như messenger , e-commerce vì đây và framework tôi thích nhất nên tôi sẽ build thật nhiều clone để học chuyên sâu hơn.</strong></p>
+<p>
+<p><strong>☕Đối với MongoDB tôi cũng sẽ học sơ qua để hiểu vì trong clone messenger tôi kết hợp với monggoDB</strong></p>
+<p>
+<p><strong>☕Dự định kế tiếp của tôi sẽ học thêm expressJS để cũng cố thêm kiến thức về Back-end</strong></p>
+<p>
+  
+<a href="https://www.facebook.com/nguyenxuantruong03/" target="_blank">
   <img src="images/banner.jpg" width="1200" alt="xuantruong-official" />
 </a>
 
