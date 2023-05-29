@@ -100,9 +100,7 @@
 <p>
 <p><strong>☕Dự định kế tiếp của tôi sẽ học thêm expressJS để cũng cố thêm kiến thức về Back-end</strong></p>
 <p>
-  
-
-
+<br>
 <div align=center>
   <a href="#" title="Trungquandev">
     <img width="315" align="center" src="https://nordiccoder.com/app/uploads/2018/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif" />
