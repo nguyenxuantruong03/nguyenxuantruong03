@@ -56,7 +56,7 @@
     <img width="315" align="center" src="https://nordiccoder.com/app/uploads/2018/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=xuantruongdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
