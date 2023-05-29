@@ -77,7 +77,7 @@
   <a href="https://www.instagram.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="xuantruong-instagram" />
   </a>
-  <a href="[mailto:trungquandev.official@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="top">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="xuantruong-email" />
   </a>
 </div>
