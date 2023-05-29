@@ -52,11 +52,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="xuantruong">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=xuantruongdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+ <a href="#" title="xuantruong">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantruongdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="xuantruong">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuantruongdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api?username=xuantruongdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -102,13 +102,14 @@
 <p>
   
 
+
 <div align=center>
-  <a href="#" title="xuantruong">
+  <a href="#" title="Trungquandev">
     <img width="315" align="center" src="https://nordiccoder.com/app/uploads/2018/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif" />
   </a>
-  <a href="https://www.facebook.com/nguyenxuantruong03/" target="_blank">
-  <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" width="1200" alt="xuantruong-official" />
-</a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"alt="xuantruong-official" />
+  </a>
 </div>
 
 <br>
