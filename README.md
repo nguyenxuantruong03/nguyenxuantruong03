@@ -68,7 +68,7 @@
   <a href="https://www.facebook.com/nguyenxuantruong03/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="xuantruong-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCLv3jJ-NxS73KQ5ivJf8Crw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="xuantruong-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/tr%C6%B0%E1%BB%9Dng-xu%C3%A2n-00bb05256/" target="blank">
