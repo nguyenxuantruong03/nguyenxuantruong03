@@ -103,7 +103,7 @@
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
-    <img width="380" align="flex-start" height="200" src="https://nordiccoder.com/app/uploads/2018/11/1_OF0xEMkWBv-69zvmNs6RDQ.gif" />
+    <img width="380" align="flex-start" height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
   </a>
   <a href="#" title="Trungquandev">
     <img align="flext-end" width="380" height="200" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"alt="xuantruong-official" />
