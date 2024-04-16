@@ -22,8 +22,8 @@
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="xuantruong.js logo" title="Express.js" height="25" /></span>
 &nbsp; -->
-<!-- <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="xuantruong logo" title="MongoDB" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="xuantruong logo" title="MongoDB" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="xuantruong logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="xuantruong.js logo" title="Three.js" height="25" /></span> -->
@@ -83,37 +83,30 @@
 </div>
 
 <br>
-
 <h2 align="center">📖 My Basic Programming Languages 📖</h2>
 <br>
 <p>
-    <strong>☕ Knowledge overview (HTML,CSS,JS,NodeJS, ReactJS, NextJS , ExpressJS, MongoDB)</strong>
+    <strong>☕ Biết tông quan về (HTML,CSS,JS,NodeJS, ReactJS, NextJS , ExpressJS, MongoDB). Nhưng tôi giành cả tâm huyết của mình để học hỏi và tìm tòi về NEXTJS và prisma Schema bên cạnh đó là React.</strong>
 </p>
-<p><strong>☕Trong khóa học HTML CSS của tôi tôi đã học được về tất cả cơ bản đến build 1 project clone nho nhỏ cuả shopee.</strong></p>
-<p><strong>☕Đối với Javascript tôi cũng đã học được tất cả các Array Object Function Fetch API cơ bản và có làm vài TODOS.</strong></p>
-<p>
-<p><strong>☕Đối với React tôi cũng đã học được tất cả các Hook cơ bản và kết hợp với Redux toolkit và react query và SASS và tôi cũng đã build clone 1 project tiktok</strong></p>
-<p>
+<p><strong>☕ Tôi đã chuẩn bị rất nhiều kiến thức về lập trình web đó là đam mê của tôi có thể thực hiện code xuyên xuốt trong 14 tiếng trong 1 ngày.</strong></p>
 <p><strong>☕Đối với NextJS tôi cũng đã học được tất cả các cách chia routes dynamic and generate static quan trọng trong Nextjs và tôi kết hợp với Tailwindcss and typescript và build clone một số dự án như messenger , e-commerce vì đây và framework tôi thích nhất nên tôi sẽ build thật nhiều clone để học chuyên sâu hơn.</strong></p>
 <p>
-<p><strong>☕Đối với MongoDB tôi cũng sẽ học sơ qua để hiểu vì trong clone messenger tôi kết hợp với monggoDB</strong></p>
+<p><strong>☕Một trong những dự án lớn nhất tôi đã giành thời gian để suy nghĩ và thêm mọi chức năng về 1 trang web lớn cellphone. Nó có tất cả mọi thứ thanh toán , shipper check đơn và mua hàng qua nhiều hình thức thanh toán... và còn rất nhiều chức năng thú vị trong admin.</strong></p>
 <p>
-<p><strong>☕Dự định kế tiếp của tôi sẽ học thêm expressJS để cũng cố thêm kiến thức về Back-end</strong></p>
+<p><strong>☕Tôi rất tập trung vào dự án đây có thể được coi là 1 dự án lớn ngang tầm với nhóm 4 -5 người trong 1 công ty. Vấn đề mà tôi đang gặp phải đó là tối ưa performance nhanh nhất nữa sẽ được đi vào hoạt động. Tôi luốn cập nhật những thông tin mới nhất về nghành công nghệ để theo kịp xu hướng.</strong></p>
 <p>
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="380" align="flex-start" height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="flext-end" width="380" height="200" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"alt="xuantruong-official" />
-  </a>
+<p><strong>☕ Một trong yếu tố mà tôi có thể nhận ra khi làm 1 project lớn là những thứ nào càng khó chinh phục thì tôi luôn tìm cách chứ không tìm lý do để bỏ qua 1 chức năng. Nếu như càng khó
+vượt qua thì tôi luôn suy nghĩ "Người khác có thể sao mình thì không? Trong quá trình thực hiện tuy có nhiều bug và fix khá tốn thời gian nhưng tư tưởng "never give up" chưa có chức năng nào có thể làm khó được tôi."</strong></p>
+<p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/xuantruong-quotes.svg" width="846" height="150" alt="xuantruong-official" />
-</a>
+<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
