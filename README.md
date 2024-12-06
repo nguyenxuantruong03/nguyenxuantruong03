@@ -107,6 +107,6 @@ vượt qua thì tôi luôn suy nghĩ "Người khác có thể sao mình thì k
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
+<p>"Người tầm thường dùng sự ồn ảo để lấp đầy khoảng trống tâm hồn, người xuất sắc lại tận dụng thời gian đơn độc để hoàn thiện bản thân. Hai mươi không cố gắng thì ba mươi không ổn định để rồi bốn mươi không an nhàn, đến tuổi xế chiều lại chỉ còn cách trông chờ vào lòng thương hại của người khác. Mười năm không ngắn nhưng nó nhanh như một tiếng thở dài, mà một khi đã trôi qua thì không cách nào quay lại."</p>
 <br>
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
